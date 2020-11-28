@@ -1,0 +1,10 @@
+C:\Users\Дима\Desktop\Home Work\Практика\Retin\Retin\bin\Debug\Retin.exe.config
+C:\Users\Дима\Desktop\Home Work\Практика\Retin\Retin\bin\Debug\Retin.exe
+C:\Users\Дима\Desktop\Home Work\Практика\Retin\Retin\bin\Debug\Retin.pdb
+C:\Users\Дима\Desktop\Home Work\Практика\Retin\Retin\obj\Debug\Retin.csprojAssemblyReference.cache
+C:\Users\Дима\Desktop\Home Work\Практика\Retin\Retin\obj\Debug\Retin.Form1.resources
+C:\Users\Дима\Desktop\Home Work\Практика\Retin\Retin\obj\Debug\Retin.Properties.Resources.resources
+C:\Users\Дима\Desktop\Home Work\Практика\Retin\Retin\obj\Debug\Retin.csproj.GenerateResource.cache
+C:\Users\Дима\Desktop\Home Work\Практика\Retin\Retin\obj\Debug\Retin.csproj.CoreCompileInputs.cache
+C:\Users\Дима\Desktop\Home Work\Практика\Retin\Retin\obj\Debug\Retin.exe
+C:\Users\Дима\Desktop\Home Work\Практика\Retin\Retin\obj\Debug\Retin.pdb
